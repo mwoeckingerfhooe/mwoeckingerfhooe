@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwoeckingerfhooe (Michael Wöckinger)
+- 👋 Hi, I’m @mwoeckingerfhooe (Michael Wöckinger), this is my educational github profile
 - 👀 I’m interested in every kind of topic around software engineering and programming 
 - 🌱 I’m currently studying Software Engineering at the University of Applied Sciences Upper Austria in Hagenberg
 
